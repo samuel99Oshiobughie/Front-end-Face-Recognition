@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Front-end-Face-Recognition/static/css/main.dc7fb61f.css",
+    "main.js": "/Front-end-Face-Recognition/static/js/main.162f3333.js",
+    "static/js/415.9efc207b.chunk.js": "/Front-end-Face-Recognition/static/js/415.9efc207b.chunk.js",
+    "static/js/787.c8dd55e1.chunk.js": "/Front-end-Face-Recognition/static/js/787.c8dd55e1.chunk.js",
+    "index.html": "/Front-end-Face-Recognition/index.html",
+    "main.dc7fb61f.css.map": "/Front-end-Face-Recognition/static/css/main.dc7fb61f.css.map",
+    "main.162f3333.js.map": "/Front-end-Face-Recognition/static/js/main.162f3333.js.map",
+    "415.9efc207b.chunk.js.map": "/Front-end-Face-Recognition/static/js/415.9efc207b.chunk.js.map",
+    "787.c8dd55e1.chunk.js.map": "/Front-end-Face-Recognition/static/js/787.c8dd55e1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc7fb61f.css",
+    "static/js/main.162f3333.js"
+  ]
+}
